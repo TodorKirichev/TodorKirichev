@@ -10,5 +10,13 @@
 
 # 📜 Certifications:
 [Programming Fundamentals with Java - September 2023](https://softuni.bg/certificates/details/195189/6e608b16)
+[Java Advanced - January 2024](https://softuni.bg/certificates/details/203396/26d8ee95)
+[Java OOP - February 2024](https://softuni.bg/certificates/details/211080/c8905651)
+[HTML & CSS - May 2024](https://softuni.bg/certificates/details/218364/6a6237dd)
+[JS Front-End - June 2024](https://softuni.bg/certificates/details/223847/82afcb6e)
+[MySQL - September 2024](https://softuni.bg/certificates/details/226069/cc02db96)
+[Spring Data - October 2024](https://softuni.bg/certificates/details/231133/ed3c8d63)
+[Spring Fundamentals - January 2025](https://softuni.bg/certificates/details/237587/342cbc20)
+[Spring Advanced - February 2025](https://softuni.bg/certificates/details/241416/a4a77b77)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
