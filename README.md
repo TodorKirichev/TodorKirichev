@@ -8,4 +8,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=TodorKirichev&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)![](https://nirzak-streak-stats.vercel.app/?user=TodorKirichev&theme=default_repocard&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TodorKirichev&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# 📜 Certifications:
+**[Java Web Developer - SoftUni](https://softuni.bg/certificates/details/195189/6e608b16)**  
+Issued by SoftUni – [View Certificate](https://softuni.bg/certificates/details/195189/6e608b16)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
